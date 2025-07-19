@@ -69,3 +69,41 @@ The models performed well given the dataset's linearly separable nature. Best-pe
 
 ## 📁 File Structure
 
+📦 Breast-Cancer-Prediction
+┣ 📜 Breast Cancer.ipynb # Main Jupyter Notebook with full analysis and models
+┗ 📜 README.md # Project overview and documentation
+
+---
+
+## 📌 Requirements
+
+- Python 3.x
+- Jupyter Notebook / Google Colab
+- Libraries:
+  - `pandas`, `numpy`, `matplotlib`, `seaborn`
+  - `scikit-learn`
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+
+💡 Future Work
+Hyperparameter tuning using GridSearchCV
+
+Cross-validation
+
+Deploy model with Flask or Streamlit for web access
+
+Add SHAP or LIME for interpretability
+
+🙌 Acknowledgements
+Dataset provided by the UCI Machine Learning Repository
+
+Inspiration from various ML model comparison studies
+
+📬 Contact
+Author: Pavithra Yasiru
+📧 [pavithrayasiru7@.icloud.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/pavithra-yasiru) | [GitHub](https://github.com/pavithra-yasiru)
+
