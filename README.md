@@ -115,6 +115,6 @@ pip install -r requirements.txt
 
 **Author**: Pavithra Yasiru  
 📧 [pavithrayasiru7@icloud.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/pavithra-yasiru) | [GitHub](https://github.com/pavithra-yasiru)
+🔗 [LinkedIn](https://www.linkedin.com/in/pavithra-yasiru-91386a2b4/) | [GitHub](https://github.com/pavithra-yasiru)
 
 ---
